@@ -1,0 +1,6 @@
+{
+  "name": "MAFALIKE",
+  "description": "MAFALIKE - Earn Money Online by completing social media tasks, upgrading VIP status, and inviting friends, with a unified Admin Management Panel.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
